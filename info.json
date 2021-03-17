@@ -1,0 +1,24 @@
+{
+    "name": "Dianna Nguyen",
+    "linkedin": "https://www.linkedin.com/in/diannavnguyen/",
+    "github": "DiannaNguyen",
+    "email": "diannavnguyen@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress"
+    ],
+    "otherSkills": [
+        "Creative Design",
+        "Organizational Skills",
+        "Plant Care", 
+        "Crystal and Essential Oils Knowledge"
+    ]
+}
